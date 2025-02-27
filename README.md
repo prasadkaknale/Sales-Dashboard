@@ -5,9 +5,13 @@
 This **Sales Dashboard** provides a comprehensive analysis of sales performance, including key metrics like total sales, profit, quantity sold, and average order value (AOV). It helps in identifying trends, tracking sales by region, customer, and product category, and making data-driven decisions for business growth.  
 
 📊 Key Metrics
+
 Total Sales Amount: 4701
+
 Total Profit: 2059
+
 Total Quantity Sold: 49
+
 Average Order Value (AOV): 1064
 
 ## 📍 Insights  
